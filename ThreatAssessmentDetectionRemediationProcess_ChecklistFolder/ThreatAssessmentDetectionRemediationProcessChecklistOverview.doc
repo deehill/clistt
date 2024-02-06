@@ -1,0 +1,164 @@
+/tmp/ghubRepoTest/ThreatAssessmentDetectionRemediationProcess_ChecklistFolder/ThreatAssessmentDetectionRemediationProcessChecklistOverview.doc \
+
+update
+	The idea behind the ThreatAssessmentDetectionChecklist is to have a consistent 
+	 process that helps the user/team minimize chances of 
+	 missing something when setting up a comprehensive ThreatAssessmentDetection 
+	 process/env/system for the webapp.
+	The ThreatAssessmentDetectionChecklist works "after"/in parallel with the 
+	 other checklists as they have completed/signed-off to create a 
+	 "complete" ThreatAssessmentDetection env for the instance/droplet that runs the 
+	 webapp.
+	The ThreatAssessmentDetectionChecklist - used to ensure the steps/items 
+	 required to "run" the webapp are correct, and that the 
+	 steps/processes use to detect/assess Threats work. At the same 
+	 time, the process/logics to deal with the Threats are handled for 
+	 the instance/droplet/app(s) in a valid/correct manner. 
+
+	The "ThreatAssessment" Process/Logic for the "Threat" is intended to 
+	 be developed/modified to work with the trgt "app/instance" as needed. 
+	 The idea is to reduce chances of "missing" something, or to be able 
+	 to "backtrack" if something has gone wrong during the overall 
+	 ThreatAssessment process for the app. 
+	The ThreatAssessmentDetectionChecklist is intended to be run after the 
+	 checklists for the web/test/prod/systemOps have been completed. The 
+	 Security/Logging/etc.. and the remainng checklists can 
+	 be handled in parallel (if they're used). 
+
+	Once/after the ThreatAssessmentProcess is "completed", the overall 
+	 instance/cloud env can be used to complete the rest of the checklists if 
+	 they're part of the app creation/release process.
+
+	The idea of the ThreatAssessmentProcess is to test/check off items 
+	 similar to:
+		cloud instance
+		webapp
+		supporting processes
+		security updates
+		database
+		user access/control
+		ports
+		system services
+		turn off everything not needed
+		turn on only things required
+		have monitoring apps/clients/crons
+
+		Instance/Droplet creation process
+		installed process/steps for any/all processes
+		scripts required to setup/config instance
+		ports/security setup
+		user passwd/group access control/restrictions
+		turn off/disable everything
+		turn on/enable the minimum of what's required for 
+		 the overall system
+
+		Need to be creative/look at other areas, to think of what 
+		 would constitute a "threat" whether external or internal 
+		 and how to process the threat/log the threat/proceed..
+		etc..
+
+		define config/setup files
+		inteface with external cron/security issues
+		etc
+		system setup.. cloud instance setup/clone/update/etc.
+
+		in this checklist, 
+			define the items to be checked -- for consistency..
+			check items..
+			
+	 define what the "steps" are to be used during the 
+		"ThreatAssessmentProcess" process
+	 ability to comment/reply
+	 ability to add/mod repos for version control/branch policy
+
+	the steps are used to have consistency, to make sure critical items 
+	 aren't missed/skipped during the ThreatAssessmentProcess/post morteum
+	 phases
+
+	the idea is to map the checklists for the differnt parts of the 
+	app create process, to the overall schedule. --schedule would have 
+	"all" the checklists/checkProcesses to be tracked..
+ 
+	the overall ThreatAssessmentProcessCheckList might work with a 
+	 projmgmt app as well
+	-the ThreatAssessmentProcessCheckList works with the other "checklist" apps
+
+	team members are able to comment/doc/respond to comments during 
+	 dev process/cycle
+
+	description/comments/docs for any subfolders/files to 
+	 give user understanding of how/why flow/logic of overall project
+
+
+	check off/test these items that they work/pass/fail
+	modify scripts to setup the "ThreatAssessmentProcess" as required
+	update github for checklist versions, 
+
+	=====================================================================
+
+
+
+	once the website/app has gotten to a point where key 
+	 UX/UI/logic/database functions are "working", it might be ok to 
+	 start "checking" the overall Website, and using the/a 
+	 WebsiteChecklist to check off what "works/doesn't work"
+
+	The idea of the SystemOps is to test/check off items 
+	 similar to the items in the: 
+		WebsiteChecklist/ProductionCheckList/ReleaseCheckList items
+	Key differences are that the items being tested/checked at this 
+	 stage are expected to "work" correctly more of the time..
+	 -broken items are/might be expected as this is kind of 
+		iterative, but issues will be fewer in number
+	 -focuses more on the actual code+system issues as well
+	-might be useful to also have auto testing for the checklist items
+	-checking/rechecking allows consistent progress to be handled/tracked
+	-gives feedback on issues as well
+	-checklist/strategy to be able to keep the process on track for 
+	 the app in check.
+	the overall checklist is based on what the project/webapp/dev/funcs/system need 
+	 to implement/check off
+	what the steps are:
+	 during the dev/create/database app process,
+	 for the initial setup process
+	 for the dev steps
+	 for database:
+		define schema/layout
+		define redundancy process/steps
+		define sql/init data process
+		define config/setup files
+		inteface with external cron/security issues
+		define/test db funcs to use in the app
+		etc
+		system setup.. cloud instance setup/clone/update/etc.
+
+		in this checklist, 
+			define the items to be checked -- for consistency..
+			check items..
+			
+	 for the dev/testing func/unit testing/etc..
+	 for... etc..
+	 define what the "steps" are to be used during the 
+		database/dev process
+ 	 define the internal/database/dev testing -- to add to checklist
+	 ability to comment/reply
+	 ability to add/mod repos for version control/branch policy
+
+	the steps are used to have consistency, to make sure critical items 
+	 aren't missed/skipped during the setup/dev/release/prod/post morteum
+	 phases
+
+	the idea is to map the checklists for the differnt parts of the 
+	app create process, to the overall schedule.
+ 
+	the overall TestCheckList might work with a projmgmt app as well
+	-the TestCheckList works with the other "checklist" apps
+
+	team members are able to comment/doc/respond to comments during 
+	 dev process/cycle
+
+
+	description/comments/docs for any subfolders/files to 
+	 give user understanding of how/why flow/logic of overall project
+
+

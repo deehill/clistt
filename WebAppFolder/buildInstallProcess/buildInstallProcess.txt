@@ -1,0 +1,28 @@
+/tmp/ghubRepoTest/WebAppFolder/buildInstallProcess/buildInstallProcess.txt \
+
+	describes the overall goal of the 
+	 webApp/buildInstallProcess/buildInstallProcess.txt - files
+	contains the "buildInstallProcess.txt"  files 
+	-scripts to be able to build/install/run the app
+	-what's required to setup the dev env, the required dev files, 
+	 the required system/ops processes..
+	-complete steps for cloning from the github repos
+	 to getting the process to a clone/cloud/instance to be 
+	 able to run the app to test
+	-used to have a consistent testing harness
+	-might be used to setup a container/docker/clone etc..
+	-the idea is to get/have/create a complete harness
+	 to run run the app, as well as test the app
+	-at the same time, tie the "harness" build process to 
+	 the testing process
+
+	-have all steps/files/processes needed/to build the 
+	 app
+
+	description/comments/docs for the subfolders/storage to 
+	 give user understanding of how/why flow/logic of "storage" part of project
+
+not exactly sure what this should be..
+ look at the dojo wave -to see how/what this folder/file is..
+
+

@@ -1,0 +1,20 @@
+/tmp/ghubRepoTest/WebAppFolder/composer.json \
+
+	describes the overall goal of the webApp/composer process - files
+	contains the "project/process" dependency files - if required 
+
+	in different php/javascript/nodejs dev envs, specifies the required 
+	versions/files to use for the project
+	 
+	//any/all jscript libs/files for the basic codebase should be here
+	-works with the other files for jscript/libs/db/sql/storage files. 
+
+	describe the required files/processes to run the app
+, what it is, how it works, etc..
+	etc.. 
+
+
+	description/comments/docs for the subfolders/storage to 
+	 give user understanding of how/why flow/logic of "storage" part of project
+
+

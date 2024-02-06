@@ -1,0 +1,16 @@
+/tmp/ghubRepoTest/WebAppFolder/lang/langOverview.txt \
+
+
+	describes the overall goal of the webApp/proj/lang -laguage files
+	contains the language files - if required
+	//any/all jscript libs/files for the basic codebase should be here
+	-works with the other files for jscript/libs/db/sql/resource files. 
+
+	describe the lang/translation process, what it is, how it works, etc..
+	etc..
+
+
+	description/comments/docs for the subfolders/lang to 
+	 give user understanding of how/why flow/logic of lang part of project
+
+

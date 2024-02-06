@@ -1,0 +1,10 @@
+ghubRepoTest/WebAppFolder/webAppOverviewDoc.txt
+
+	describes the overall goal of the webApp/App
+	describes the overall sub folders for the proj/webApp/process
+	describes the associated test/prod/release checklist 
+	 processes for the project/codebase
+
+
+
+

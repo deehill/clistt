@@ -1,0 +1,13 @@
+/tmp/ghubRepoTest/WebAppFolder/bootstrap/bootstrapOverview.txt \
+
+
+	describes the overall goal of the webApp/proj/bootstrap
+	contains the jscript code/files
+	any/all jscript libs/files for the basic codebase should be here
+	-works with the other files for jscript/libs/db/sql/resource files. 
+
+	description/comments/docs for the subfolders/app to 
+	 give user understanding of how/why flow/logic of project
+
+
+

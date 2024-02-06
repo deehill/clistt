@@ -1,0 +1,10 @@
+/tmp/ghubRepoTest/WebAppFolder/ghtests/ghtests.txt \
+
+	describes the overall goal of the webApp test folder/test file(s)
+	test folder contains the test(s) run within the webapp/code
+	-this isn't the test/checklist process 
+
+	-tests to run
+	-steps to run tests..
+
+

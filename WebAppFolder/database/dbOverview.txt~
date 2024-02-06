@@ -1,0 +1,15 @@
+/tmp/ghubRepoTest/WebAppFolder/database/dbOverview.txt \
+
+
+	describes the overall goal of the webApp/proj/db
+	contains the config files 
+	//any/all jscript libs/files for the basic codebase should be here
+	-works with the other files for jscript/libs/db/sql/resource files. 
+
+	describe the config process, what it is, how it works, etc..
+
+
+	description/comments/docs for the subfolders/app to 
+	 give user understanding of how/why flow/logic of project
+
+

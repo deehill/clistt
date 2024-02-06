@@ -1,0 +1,143 @@
+/tmp/ghubRepoTest/SystemOps_ChecklistFolder/SystemOpsChecklistOverview.doc \
+
+	The idea behind the SystemOpsChecklist is to have a consistent 
+	 process that gives the user/team a process to minimize chances of 
+	 missing something when setting up a comprehensive dev/prod/release 
+	 env for the webapp.
+	The SystemOpsChecklist works with/after/in parallel with the 
+	 other checklists to create a "complete" env/instance that 
+	 can run the webapp.
+	The SystemOpsChecklist is used to are sure the steps/items 
+	 required to create the right env for the webapp, and to reuce 
+	 chances of "missing" something, or to be able to "backtrack" 
+	 if something has gone wrong during the overall system/dev process 
+	 for the app
+	The SystemOpsChecklist will be iterative, and possibly automated 
+	 to reduce time required to cover the items to success/fail. Once 
+	 the SystemOpsChecklist "succeeds" the snapshot could be used as 
+	 the basis for dev from then on.. provided nothing from the SystemOps  
+	 process changes..
+	Once/after the devProcess is "completed" the SystemOpsChecklist 
+	 has to be rerun as part of the comprehensive check off process.
+
+	The idea of the SystemOps is to test/check off items 
+	 similar to the items in the: 
+		WebsiteChecklist/ProductionCheckList/ReleaseCheckList items
+
+	Key areas/items
+		Instance/Droplet creation process
+		installed process/steps for any/all processes
+		scripts required to setup/config instance
+		ports/security setup
+		user passwd/group access control/restrictions
+		turn off/disable everything
+		turn on/enable the minimum of what's required for 
+		 the overall system
+		setup monitoring/security/redundancy processes
+
+		define config/setup files
+		inteface with external cron/security issues
+		etc
+		system setup.. cloud instance setup/clone/update/etc.
+
+		in this checklist, 
+			define the items to be checked -- for consistency..
+			check items..
+			
+	 for the dev/testing func/unit testing/etc..
+	 for... etc..
+	 define what the "steps" are to be used during the 
+		systemDevOps process
+ 	 define the internal/database/dev testing -- to add to checklist
+	 ability to comment/reply
+	 ability to add/mod repos for version control/branch policy
+
+	the steps are used to have consistency, to make sure critical items 
+	 aren't missed/skipped during the setup/dev/release/prod/post morteum
+	 phases
+
+	the idea is to map the checklists for the differnt parts of the 
+	app create process, to the overall schedule.
+ 
+	the overall TestCheckList might work with a projmgmt app as well
+	-the TestCheckList works with the other "checklist" apps
+
+	team members are able to comment/doc/respond to comments during 
+	 dev process/cycle
+
+
+	description/comments/docs for any subfolders/files to 
+	 give user understanding of how/why flow/logic of overall project
+
+
+	check off/test these items that they work/pass/fail
+	modify scripts to setup the "systemDevOps" as required
+	update github for checklist versions, 
+
+	=====================================================================
+
+
+	once the website/app has gotten to a point where key 
+	 UX/UI/logic/database functions are "working", it might be ok to 
+	 start "checking" the overall Website, and using the/a 
+	 WebsiteChecklist to check off what "works/doesn't work"
+
+	The idea of the SystemOps is to test/check off items 
+	 similar to the items in the: 
+		WebsiteChecklist/ProductionCheckList/ReleaseCheckList items
+	Key differences are that the items being tested/checked at this 
+	 stage are expected to "work" correctly more of the time..
+	 -broken items are/might be expected as this is kind of 
+		iterative, but issues will be fewer in number
+	 -focuses more on the actual code+system issues as well
+	-might be useful to also have auto testing for the checklist items
+	-checking/rechecking allows consistent progress to be handled/tracked
+	-gives feedback on issues as well
+	-checklist/strategy to be able to keep the process on track for 
+	 the app in check.
+	the overall checklist is based on what the project/webapp/dev/funcs/system need 
+	 to implement/check off
+	what the steps are:
+	 during the dev/create/database app process,
+	 for the initial setup process
+	 for the dev steps
+	 for database:
+		define schema/layout
+		define redundancy process/steps
+		define sql/init data process
+		define config/setup files
+		inteface with external cron/security issues
+		define/test db funcs to use in the app
+		etc
+		system setup.. cloud instance setup/clone/update/etc.
+
+		in this checklist, 
+			define the items to be checked -- for consistency..
+			check items..
+			
+	 for the dev/testing func/unit testing/etc..
+	 for... etc..
+	 define what the "steps" are to be used during the 
+		database/dev process
+ 	 define the internal/database/dev testing -- to add to checklist
+	 ability to comment/reply
+	 ability to add/mod repos for version control/branch policy
+
+	the steps are used to have consistency, to make sure critical items 
+	 aren't missed/skipped during the setup/dev/release/prod/post morteum
+	 phases
+
+	the idea is to map the checklists for the differnt parts of the 
+	app create process, to the overall schedule.
+ 
+	the overall TestCheckList might work with a projmgmt app as well
+	-the TestCheckList works with the other "checklist" apps
+
+	team members are able to comment/doc/respond to comments during 
+	 dev process/cycle
+
+
+	description/comments/docs for any subfolders/files to 
+	 give user understanding of how/why flow/logic of overall project
+
+

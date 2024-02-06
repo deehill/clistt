@@ -1,0 +1,19 @@
+/tmp/ghubRepoTest/WebAppFolder/app/appOverview.txt \
+
+
+	describes the overall goal of the webApp/proj/codebase
+	contains the code/files
+	any/all files for the basic codebase should be here
+	-works with the other files for jscript/libs/db/sql/resource files. 
+
+	-might define/describe the subfolders if any.. and the 
+	 purpose..
+	description/comments/docs for the subfolders/app to 
+	 give user understanding of how/why flow/logic of project
+
+	might have build/install section to describe how to completely 
+	 setup the app with the clean/base droplet..
+
+	buildInstallFolder
+	 -might need to create/include this with the
+

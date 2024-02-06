@@ -1,0 +1,28 @@
+/tmp/ghubRepoTest/projMgmt_ChecklistFolder/projMgmtChecklistOverview.doc \
+
+	in order to build/oversee the webapp, need to have a basic 
+	 projMgmt plan to be able to keep the process for the app in 
+	 check.
+	the overall checklist is based on what the project/webapp needs
+	what the steps are:
+	 create the app, 
+	 from "start" to "finish"
+
+	the steps are used to have consistency, to make sure critical items 
+	 aren't missed/skipped during the setup/dev/release/prod/post morteum
+	 phases
+
+	the idea is to map the checklists for the differnt parts of the 
+	app create process, to the overall schedule.
+ 
+	the overall projMgmt checklist might work with a projmgmt app as well
+	the projMgmt checklist works with the other "checklist" apps
+
+	team members are able to comment/doc/respond to comments during 
+	 dev process/cycle
+
+
+	description/comments/docs for any subfolders/files to 
+	 give user understanding of how/why flow/logic of overall project
+
+

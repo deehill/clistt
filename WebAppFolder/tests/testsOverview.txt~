@@ -1,0 +1,27 @@
+/tmp/ghubRepoTest/WebAppFolder/tests/testsOverview.txt \
+
+	describes the overall goal of the webApp/proj/tests - files
+	contains the "tests"  files - 
+	//any/all jscript libs/files for the basic codebase should be here
+	-works with the other files for jscript/libs/db/sql/storage files. 
+
+	describe the tests files/process, what it is, how it works, etc..
+	etc.. 
+
+	the "test" files are used to internally test the webapp during the 
+	 dev process..
+		might be unit/func tests..
+		might be db/query/edge tests etc..
+		dev/create the tests.. comment all the tests..
+		have test harness to run the test 
+		might have test containers/scripts..
+		maintain all test "stuff" here...
+		some of the test scripts/files might be used in the 
+		 testChecklist process
+		create/track exact steps to run the tests on the dev system..
+		etc..
+
+	description/comments/docs for the subfolders/tests to 
+	 give user understanding of how/why flow/logic of "tstorage" part of project
+
+

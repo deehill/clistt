@@ -1,0 +1,14 @@
+/tmp/ghubRepoTest/WebAppFolder/README.md \
+
+	describes the README/content used or the app   - WebApp/README - files
+	part of the "WebApp"/top level dir 
+	the README is a "part" of the files used for github projects
+	 -not really required
+
+	-works with the other files for jscript/libs/db/sql/etc files. 
+
+
+	description/comments/docs for the subfolders/storage to 
+	 give user understanding of the license for the app if proj is public
+
+

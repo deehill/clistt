@@ -1,0 +1,15 @@
+/tmp/ghubRepoTest/WebAppFolder/public/publicOverview.txt \
+
+	describes the overall goal of the webApp/proj/public - files
+	contains the "public" facing files - if required
+	//any/all jscript libs/files for the basic codebase should be here
+	-works with the other files for jscript/libs/db/sql/resource files. 
+
+	describe the public process, what it is, how it works, etc..
+	etc.. 
+
+
+	description/comments/docs for the subfolders/public to 
+	 give user understanding of how/why flow/logic of "public" part of project
+
+

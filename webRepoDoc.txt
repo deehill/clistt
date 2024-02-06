@@ -1,0 +1,19 @@
+
+
+ ghubRepoTest/webRepoDoc.txt
+	describes the overall goal of the folder/subfolders
+	for the repo, used to be able to build the overall 
+	app, as well as:
+	 go through test
+	 go through release
+	 monitor
+	 security checks
+	 db checks
+	 etc..
+	each of these have/should have their own checklist/processes 
+	 to handle in order to successfully release the app
+	describes the dir/folder structure for the "project"
+	describes the github instructions/steps for 
+	 interfacing/modifying the repos from thee cmdline
+	-does a "short" description of each of the dir/file(s)
+

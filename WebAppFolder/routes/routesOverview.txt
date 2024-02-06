@@ -1,0 +1,15 @@
+/tmp/ghubRepoTest/WebAppFolder/routes/routesOverview.txt \
+
+	describes the overall goal of the webApp/proj/routes - files
+	contains the "routes"  files - if required (would be what??)
+	//any/all jscript libs/files for the basic codebase should be here
+	-works with the other files for jscript/libs/db/sql/resource files. 
+
+	describe the routes files/process, what it is, how it works, etc..
+	etc.. 
+
+
+	description/comments/docs for the subfolders/routes to 
+	 give user understanding of how/why flow/logic of "routes" part of project
+
+

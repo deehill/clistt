@@ -1,0 +1,15 @@
+/tmp/ghubRepoTest/WebAppFolder/resources/resourcesOverview.txt \
+
+	describes the overall goal of the webApp/proj/resources - files
+	contains the "resources"  files - if required (would be what??)
+	//any/all jscript libs/files for the basic codebase should be here
+	-works with the other files for jscript/libs/db/sql/resource files. 
+
+	describe the resource files/process, what it is, how it works, etc..
+	etc.. 
+
+
+	description/comments/docs for the subfolders/resources to 
+	 give user understanding of how/why flow/logic of "resouces" part of project
+
+

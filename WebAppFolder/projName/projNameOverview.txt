@@ -1,0 +1,46 @@
+/tmp/ghubRepoTest/WebAppFolder/projName/projNameOverview.txt \
+
+	describes the overall goal of the webApp/proj/projName - files
+	contains the "projName"  files - if required (would be what??)
+	--ie "wave"
+
+	folder would require all sub folders/files for the "app" proj
+	as example
+
+	database
+	docs
+	resources/views
+	routes
+	src
+
+	..for the "wave" app...
+
+	the dir follows the "dojo / wave" app..
+	for other apps, this might have different structure/subdirs/files
+
+	for most apps/template, prob need to define the subdir/structure/files 
+	 for the "proj" subdir...
+
+	up to the dev/dev team to create the layout, 
+	 for what works with the proj
+
+	once the structure/layout is "created"
+	add it to the githb repos
+	
+	describe the subdirs files/processes, what it is, how it works, etc..
+	etc.. 
+
+	comments/docs for the subdir/files
+
+
+	description/comments/docs for the subfolders/files to 
+	 give user understanding of how/why flow/logic of this part of project
+
+not exactly sure what this should be..
+ look at the dojo wave -to see how/what this folder/file is..
+
+"projName" would be the appName
+ folder would have the subdirs of the proj, 
+	as well as any required files
+
+
